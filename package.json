@@ -1,0 +1,20 @@
+{
+  "name": "2023_study_graphql",
+  "version": "1.0.0",
+  "description": "노마드코더 <GraphQL로 영화 API 만들기> 들어요",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "type": "module"
+}
