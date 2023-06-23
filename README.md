@@ -12,3 +12,4 @@
 |------------|---------------------------------------------------------------|
 | 2023-06-21 | REST의 문제와 GraphQL 소개 - UnderFetch, OverFetch                      |
 | 2023-06-22 | Query, Mutable, Non nullable                      |
+| 2023-06-23 | Type Resolver                      |
