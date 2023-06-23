@@ -4,7 +4,7 @@
 # 소개
 - 자료 : 노마드코더 **<GraphQL로 영화 API 만들기>**
 - 공부 기간 : 6월 21일 ~ 6월 -일
-- 목표 : GraphQL 기본 이해, Node로 간단한 GraphQL 서버 만들기
+- 목표 : GraphQL 기본 이해, Apollo로 간단한 GraphQL 서버 만들기
 
 # 공부 기록
 
